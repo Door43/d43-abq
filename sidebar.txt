@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abq:home|Door43 (abq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abq|d43-abq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abq/archive/master.zip|d43-abq.zip]]
+
+**Recent Changes**
+{{changes>ns = abq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abq|Ethnologue data]]
+
